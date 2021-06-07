@@ -56,6 +56,7 @@ class ContactForm extends React.Component {
            onChange={this.onChange}
          />
          <button
+           class="btn btn-primary"
            style={{
              marginTop: `7px`,
            }}
