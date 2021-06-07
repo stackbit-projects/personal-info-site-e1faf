@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-grayscale/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Ekagra Sharma',
-  subHeading: 'Full time Web Developer. Part time Open source contributor  ',
+  subHeading: 'The Kapil Sharma Show Writer, ',
 
   // social
   socialLinks: [
